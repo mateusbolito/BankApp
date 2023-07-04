@@ -1,5 +1,6 @@
 # BankApp
 Novo Projeto com o objetivo de "apresentar um  novo app de Transações e muito mais", intuito de aprimorar minhas habilidades de design system
+Este projeto contem so a home do site, fiz por ter esse Designe Moderno e futuristico, em breve irei melhorar
 
 
 <div align="center">
