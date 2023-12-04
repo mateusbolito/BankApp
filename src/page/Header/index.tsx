@@ -46,14 +46,14 @@ export function Header() {
             <ColumWraper>
               <ColumFlex>
                 <h1>
-                  Bem-vindo a primeira super-app para negócios{" "}
+                  Bem-vindo a primeira super-app para negócios
                   <span>No Brasil</span>
                 </h1>
 
                 <Paragrafo>
                   Abre uma conta empresarial com cartões físicos e digitais no
                   teu smartphone. Envia e recebe faturas certificadas. Faz
-                  pagamentos de forma simples. ~ Tudo numa app fácil de Usar.
+                  pagamentos de forma simples. Tudo numa app fácil de Usar.
                 </Paragrafo>
               </ColumFlex>
             </ColumWraper>

@@ -23,7 +23,7 @@ export function Contas() {
             <CheckCircle size={32} />
             <h1>Cria uma conta em Minuto ‍</h1>
             <CheckCircle size={32} />
-            <h1>Verificação concluída em algumas Horas</h1>
+            <h1>Verificação concluída em Algumas Horas</h1>
             <CheckCircle size={32} />
           </Conteudo>
         </ContasContent>

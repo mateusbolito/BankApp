@@ -29,7 +29,7 @@ export function Price() {
             <h3>BankBrasil Premium</h3>
             <span>20$ / mês</span>
             <p>
-              Actualiza o teu plano sempre que quiseres. Experimenta grátis.
+              Actualiza o teu plano sempre que quiseres. Experimenta Grátis.
             </p>
             <a href="">Escolher Plano</a>
           </TitleContainer>
