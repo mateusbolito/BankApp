@@ -19,11 +19,11 @@ export function Contas() {
             <h2>{busine.ContaName} </h2>
           </div>
           <Conteudo>
-            <h1>Descarrega a aplicação</h1>
+            <h1>Descarrega a Aplicação</h1>
             <CheckCircle size={32} />
-            <h1>Cria uma conta em minuto ‍</h1>
+            <h1>Cria uma conta em Minuto ‍</h1>
             <CheckCircle size={32} />
-            <h1>Verificação concluída em algumas horas</h1>
+            <h1>Verificação concluída em algumas Horas</h1>
             <CheckCircle size={32} />
           </Conteudo>
         </ContasContent>

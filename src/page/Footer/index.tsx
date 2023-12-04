@@ -40,8 +40,8 @@ export function Footer() {
             <div>
               <h3>Apoio</h3>
               <a>Help Center</a>
-              <a>Entrar em contato</a>
-              <a>Documnetos legais</a>
+              <a>Entrar em Contato</a>
+              <a>Documnetos Legais</a>
             </div>
             <div>
               <h3>Sobre</h3>
@@ -51,7 +51,7 @@ export function Footer() {
             </div>
             <div>
               <h3>BankBrasil</h3>
-              <a>Qualidade de atendimento</a>
+              <a>Qualidade de Atendimento</a>
               <a>Em todo Brasil</a>
               <a>Serviços unicos</a>
             </div>

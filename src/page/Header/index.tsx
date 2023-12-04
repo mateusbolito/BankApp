@@ -33,7 +33,7 @@ export function Header() {
             <a href="">Home</a>
             <a href="">Serviços</a>
             <a href="">Preços</a>
-            <button>Abrir conta</button>
+            <button>Abrir Conta</button>
 
             <MenuPt>
               <a href="">EN</a>
@@ -53,7 +53,7 @@ export function Header() {
                 <Paragrafo>
                   Abre uma conta empresarial com cartões físicos e digitais no
                   teu smartphone. Envia e recebe faturas certificadas. Faz
-                  pagamentos de forma simples. ~ Tudo numa app fácil de usar.
+                  pagamentos de forma simples. ~ Tudo numa app fácil de Usar.
                 </Paragrafo>
               </ColumFlex>
             </ColumWraper>

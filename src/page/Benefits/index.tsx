@@ -51,7 +51,7 @@ export function Benefits() {
       <BenefitsItem>
         <ContainerItemWraper>
           <BenefitsPicture>
-            <img src={benefit3} alt="" />
+            <img src={benefit3} alt="beneft" />
           </BenefitsPicture>
           <Title>
             <h2>Conta Empresarial</h2>
