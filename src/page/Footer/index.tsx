@@ -15,12 +15,14 @@ import {
 interface ProdutoProp {
   ProdutoName: string;
   ContaName: string;
+  fatu: string;
 }
 
 const produto: ProdutoProp[] = [
   {
     ContaName: "Produto",
     ProdutoName: "Conta empresarial",
+    fatu: "Faturaçao",
   },
 ];
 export function Footer() {
@@ -32,7 +34,7 @@ export function Footer() {
             <div>
               <h3>{product.ContaName} </h3>
               <a>{product.ProdutoName} </a>
-              <a>Faturação</a>
+              <a>{product.fatu} </a>
               <a>Criaçao de empresa</a>
             </div>
             <div>

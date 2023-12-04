@@ -54,14 +54,14 @@ export function Accolades() {
         <ContainerFlex>
           <BusinesItem>
             <img src={icon1} alt="" />
-            <h3>rapido</h3>
+            <h3>Rapido</h3>
             <p>Abre uma conta em minutos. No teu telemóvel. 100% online.</p>
           </BusinesItem>
         </ContainerFlex>
         <ContainerFlex>
           <BusinesItem>
             <img src={heart} alt="" />
-            <h3>Sem truques</h3>
+            <h3>Sem Truques</h3>
             <p>
               Low cost. Sem comissões camufladas. Podes cancelar a qualquer
               momento.
