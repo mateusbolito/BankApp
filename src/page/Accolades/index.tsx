@@ -16,6 +16,16 @@ import icon1 from "../../assets/icon1.png";
 import heart from "../../assets/heart.png";
 import seguro from "../../assets/seguro.png";
 import apoio from "../../assets/apoio.png";
+interface Props {
+  ProdutoName: string;
+  ContaName: string;
+}
+const busines: Props[] = [
+  {
+    ContaName: "Uma conta empresarial pensada para o Brasil",
+    ProdutoName: "Conta empresarial",
+  },
+];
 export function Accolades() {
   return (
     <AccoladesContainer>
@@ -33,9 +43,11 @@ export function Accolades() {
         </div>
       </PictureContainer>
       <TitleContainerContent>
-        <div>
-          <h1>Uma conta empresarial pensada para o Brasil</h1>
-        </div>
+        {busines.map((busine) => (
+          <div>
+            <h1>{busine.ContaName}</h1>
+          </div>
+        ))}
       </TitleContainerContent>
 
       <FeaturesWraper>
