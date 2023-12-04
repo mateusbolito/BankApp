@@ -16,6 +16,7 @@ interface ProdutoProp {
   ProdutoName: string;
   ContaName: string;
   fatu: string;
+  preco: string;
 }
 
 const produto: ProdutoProp[] = [
@@ -23,6 +24,7 @@ const produto: ProdutoProp[] = [
     ContaName: "Produto",
     ProdutoName: "Conta empresarial",
     fatu: "Faturaçao",
+    preco: "Help Center",
   },
 ];
 export function Footer() {
@@ -38,7 +40,7 @@ export function Footer() {
               <a>Criaçao de empresa</a>
             </div>
             <div>
-              <h3>Apoio</h3>
+              <h3>{product.preco} </h3>
               <a>Help Center</a>
               <a>Entrar em Contato</a>
               <a>Documnetos Legais</a>
